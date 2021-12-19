@@ -3,6 +3,8 @@
 #### Link to Play: https://obscenebard.itch.io/alchetea
 #### Link to Jam page: https://ldjam.com/events/ludum-dare/49/alche-tea
 
+Technical Note: Unstable.yyz is a ***GameMaker Studio 2*** file
+
 > Game Jam Theme: Unstable
 > 
 > Ludum Game Jam 49, Oct 1, 2021
